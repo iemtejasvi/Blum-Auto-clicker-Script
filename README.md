@@ -1,6 +1,7 @@
+
 # Blum Auto-Clicker Script
 
-This repository contains an auto-clicker script for the Blum Telegram mini-game. The script automates the clicking process and sometimes clicks on bombs to make the activity look more natural.
+This repository contains an auto-clicker script for the Blum Telegram mini-game. The script automates the clicking process and occasionally clicks on bombs to make the activity look more natural.
 
 ## Requirements
 
@@ -23,7 +24,7 @@ To run this script, you need to install the required dependencies. Ensure you ha
 
 3. Install the required packages:
    ```bash
-   pip install -r C:\Users\steja\Blum\requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Running the Script
@@ -31,7 +32,7 @@ To run this script, you need to install the required dependencies. Ensure you ha
 To run the auto-clicker script, execute the following command:
 
 ```bash
-python C:\Users\steja\Blum\blum.py
+python blum.py
 ```
 
 ## Features
@@ -47,10 +48,9 @@ python C:\Users\steja\Blum\blum.py
 ## Troubleshooting
 
 - **Dependencies Issues:** Make sure all packages in `requirements.txt` are properly installed.
-- **Script Errors:** Verify that the paths provided in the `requirements.txt` and `blum.py` are correct and accessible.
+- **Script Errors:** Verify that `blum.py` is present in the directory where you run the script.
 
 ## Contact
 
 For any issues or suggestions, please open an issue on this repository or contact the author.
 
-Happy Clicking!
