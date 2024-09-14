@@ -1,6 +1,3 @@
-Here's a `README.md` file for your GitHub repository:
-
-```markdown
 # Blum Auto-Clicker Script
 
 This repository contains an auto-clicker script for the Blum Telegram mini-game. The script automates the clicking process and sometimes clicks on bombs to make the activity look more natural.
