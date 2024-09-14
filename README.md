@@ -1,43 +1,43 @@
 
 # Blum Auto-Clicker Script
 
-This is an auto-clicker script designed for the Blum mini-game on Telegram. It automates clicks for the game while making it look more realistic by occasionally clicking on bombs.
+This is an auto-clicker script designed for the Blum mini-game on Telegram. It automates clicks for the game while occasionally clicking on bombs to simulate more human-like behavior.
 
 ## Features
-- Automates clicking in the Blum Telegram mini-game.
-- Sometimes clicks on bombs to simulate human-like behavior.
+- Automates clicks in the Blum Telegram mini-game.
+- Occasionally clicks on bombs to make the clicking seem more realistic.
 
 ## Requirements
 
-Before running the script, make sure you have the necessary dependencies installed. All required packages are listed in the `requirements.txt` file.
+Before running the script, ensure that Python is installed on your system and the required dependencies are set up. The necessary packages are listed in the `requirements.txt` file.
 
 ## Installation
 
-1. Clone this repository to your local machine:
+1. **Clone the repository** to your local machine:
 
    ```bash
    git clone https://github.com/iemtejas/Blum-Auto-clicker-Script.git
+   cd Blum-Auto-clicker-Script
    ```
 
-2. Install the required dependencies:
+2. **Install the required dependencies** using `pip`:
 
    ```bash
-   pip install -r C:\Users\steja\Blum\requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Usage
 
-To run the script, use the following command:
+1. **Run the script** with Python:
 
-```bash
-python C:\Users\steja\Blum\blum.py
-```
+   ```bash
+   python blum.py
+   ```
 
-The script will then begin automating the clicks in the game.
+   This will start the auto-clicker script for the Blum mini-game.
 
 ## Notes
 
-- The script is designed to simulate human-like behavior by occasionally clicking on bombs.
-- Make sure your environment is properly configured with Python and the necessary libraries from the `requirements.txt` file.
+- The script simulates human behavior by occasionally clicking on bombs.
+- Adjust any necessary configurations (such as timing or window focus) in the script to match your system setup.
 
-Feel free to contribute or raise any issues you encounter!
