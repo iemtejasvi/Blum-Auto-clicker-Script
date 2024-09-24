@@ -16,7 +16,7 @@ Before running the script, ensure that Python is installed on your system and th
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/iemtejas/Blum-Auto-clicker-Script.git
+   git clone https://github.com/iemtejasvi/Blum-Auto-clicker-Script.git
    cd Blum-Auto-clicker-Script
    ```
 
